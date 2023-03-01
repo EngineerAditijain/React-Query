@@ -1,0 +1,95 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman 1",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "wanda",
+      "alterEgo": "avenger",
+      "id": 4
+    },
+    {
+      "name": "Thor",
+      "alterEgo": "Asguard",
+      "id": 5
+    },
+    {
+      "name": "Thor",
+      "alterEgo": "Asguard",
+      "id": 6
+    },
+    {
+      "name": "Tony",
+      "alterEgo": "stark",
+      "id": 7
+    },
+    {
+      "name": "black",
+      "alterEgo": "panther",
+      "id": 8
+    },
+    {
+      "name": "black",
+      "alterEgo": "panther",
+      "id": 9
+    },
+    {
+      "name": "black1",
+      "alterEgo": "panther1",
+      "id": 10
+    },
+    {
+      "name": "test1",
+      "alterEgo": "something",
+      "id": 11
+    },
+    {
+      "name": "test123",
+      "alterEgo": "something234",
+      "id": 12
+    },
+    {
+      "name": "test123",
+      "alterEgo": "something234",
+      "id": 13
+    },
+    {
+      "name": "iron ",
+      "alterEgo": "man",
+      "id": 14
+    },
+    {
+      "name": "iron ",
+      "alterEgo": "man",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "id": "aditijainjnv101@gmail.com",
+      "channelId": "codeevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codeevolution",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ]
+}
